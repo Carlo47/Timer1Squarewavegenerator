@@ -25,6 +25,7 @@ understanding of the interaction of prescaler and register.
 
 ## User Interface
 The user interface is a simple command line interface (CLI). The menu items are self-explanatory.
+
 ![CommandLineInterface](timer1SqwGenMenu.jpg)
 
 ## Program Code
